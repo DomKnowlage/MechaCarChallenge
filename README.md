@@ -34,12 +34,23 @@ The total variance of the coil springs per lot is well with in the 100psi thresh
 
 ![results](Deliverable2BoxPlot.png)
 
-##Deliverable 3
+## Deliverable 3
 
 T-Tests on Suspension coils
 
 ![results](Deliverable3SampleT-Test.png)
 
-The true mean of the sample is 1498.78, which we also saw in the summary statistics of the 3 lots. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evdience to reject the Null Hypothsis.
+The true mean of the sample is 1498.78, which we also saw in the summary statistics of the 3 lots. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evdience to reject the Null Hypothsis. Now lets take a look at the 3 lots indiviually
 
+![result](Deliverable3LotT-Test.png)
+
+1: In sample 1 there no difference between the sample mean and this sample mean
+
+2: The null hypothesis cant be rejected on this sample with a mean of 1500.2 and a p-value of .61
+
+3: In lot 3 you can reject the null hypothesis as well only difference is that the sample mean is lower and the p-value is lower as well which may lead to a quality control issues down the road
+
+## Deliverable 4
+
+My hypothesis would be comparing different manufacturers sport compacts g load in turns versus the MechaCars g loads. I woudld need spring rates (dependent variables) track conditions (indpendent variables) and the weight transfer of vehciles through the turns. doing this could lead ot a new car geared towards enthusiats as well as generate some hype for the vehicle in online communtites across the web.
 
