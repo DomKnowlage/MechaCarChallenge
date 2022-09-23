@@ -32,4 +32,4 @@ lets look at each lot individually
 
 The total variance of the coil springs per lot is well with in the 100psi threshold making them viable for use. If we divide the data between each of the three lots we can see that lot 1 and lot 2 are within the 100psi threshold. unforunatley lot 3 has a variance of 170psi almost double the threshold making them not as desirable. The production team could use the springs from lot 3 with springs from lots 1 and 2 distirbuting the psi load across the suspension.
 
-![results](
+![results](Deliverable2BoxPlot.png)
