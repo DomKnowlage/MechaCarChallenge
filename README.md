@@ -19,4 +19,6 @@ The results are shown here
 
 3: This model perdicts the mpg of the MechaCar pretty effectivly with an overall 71% accuracy
  
- 
+ ## Deliverable 2
+Summary of the suspension coils
+
