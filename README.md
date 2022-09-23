@@ -38,4 +38,8 @@ The total variance of the coil springs per lot is well with in the 100psi thresh
 
 T-Tests on Suspension coils
 
-![results]()
+![results](Deliverable3SampleT-Test.png)
+
+The true mean of the sample is 1498.78, which we also saw in the summary statistics of the 3 lots. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evdience to reject the Null Hypothsis.
+
+
