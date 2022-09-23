@@ -22,3 +22,8 @@ The results are shown here
  ## Deliverable 2
 Summary of the suspension coils
 
+![result](Deliverable2TotalSummary.png)
+
+This data set look at the various suspension coils per manufacturer lot
+
+lets look at each lot individually
